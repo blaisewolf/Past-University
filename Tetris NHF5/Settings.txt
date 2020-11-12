@@ -1,0 +1,5 @@
+sound	True
+music	True
+lvl	0
+width	10
+height	16
