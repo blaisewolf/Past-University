@@ -1,0 +1,11 @@
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\HF1.dll
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\HF1.pdb
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\obj\Debug\HF1.csprojAssemblyReference.cache
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\obj\Debug\HF1.csproj.CoreCompileInputs.cache
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\obj\Debug\HF1.csproj.CopyComplete
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\obj\Debug\HF1.dll
+C:\Users\blais\Desktop\blaisewolf\HF1\HF1\obj\Debug\HF1.pdb

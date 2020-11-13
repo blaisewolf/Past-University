@@ -1,0 +1,4 @@
+C:\Users\blais\Desktop\L1_KarandiFarkasKovacs\TournamentGame\HF2Tests\obj\Debug\netcoreapp3.0\HF2Tests.csprojAssemblyReference.cache
+C:\Users\blais\Desktop\L1_KarandiFarkasKovacs\TournamentGame\HF2Tests\obj\Debug\netcoreapp3.0\HF2Tests.AssemblyInfoInputs.cache
+C:\Users\blais\Desktop\L1_KarandiFarkasKovacs\TournamentGame\HF2Tests\obj\Debug\netcoreapp3.0\HF2Tests.AssemblyInfo.cs
+C:\Users\blais\Desktop\L1_KarandiFarkasKovacs\TournamentGame\HF2Tests\obj\Debug\netcoreapp3.0\HF2Tests.csproj.CoreCompileInputs.cache
